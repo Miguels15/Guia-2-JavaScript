@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table{
+    border: 1vw solid rgb(199, 112, 112);
+    margin: 30px auto;
+    width: 20%;
+    text-align: center;
+
+}
+table td{
+    border: 10px groove rgb(119, 50, 50);
+}
+table th{
+    border: 10px inset rgb(93, 161, 105);
+}

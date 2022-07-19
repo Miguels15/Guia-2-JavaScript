@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h3{
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: rgb(125, 48, 189);
+    width: 100%;
+    height: 5rem;
+    background-color: azure;
+    text-align: center;
+}
