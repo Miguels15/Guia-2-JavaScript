@@ -3,16 +3,16 @@
     margin: 0;
     background-color: antiquewhite;
 }
-a{
-    
+div{
+    font-size: 20px;
+    text-align: center;
+    margin: 30px auto;
+    width: 100%;
+}
+div a{
     background-color: rgb(213, 186, 238);
     width: 200px;
-    height: 60px;
+    height: 100px;
     text-decoration: none;
     border-radius: 0.4rem;
-    font-size: 1.6rem;
-    display: inline-block;
-    margin: 0.5rem 1rem 0rem 50rem;
-    text-align: center;
-    padding-left: 10px;
 }
